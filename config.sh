@@ -3,7 +3,7 @@
 # about the custom recoverye
 export NAME="twrp" # supported: pbrp, shrp, twrp
 export MANIFEST="https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp.git" # the link of manifest
-export BRANCH="twrp-12.1" # the branch of manifest
+export BRANCH="twrp-11" # the branch of manifest
 
 # about your device
 export DEVICE="a02" # codename used in device tree
